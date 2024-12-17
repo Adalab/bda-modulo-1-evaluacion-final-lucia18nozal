@@ -17,9 +17,9 @@ El ejercicio está planteado en dos partes:
 
 ### Atributos
 - inventario (list): Almacena los productos en la tienda. Cada producto es representado por un diccionario con las claves:
-    · nombre: Nombre del producto (string).
-    · precio: Precio del producto (float).
-    · cantidad: Cantidad disponible del producto (int).
+    - nombre: Nombre del producto (string).
+    - precio: Precio del producto (float).
+    - cantidad: Cantidad disponible del producto (int).
 - ventas_totales (float): Registra el total de las ventas realizadas.
 
 ### Métodos
