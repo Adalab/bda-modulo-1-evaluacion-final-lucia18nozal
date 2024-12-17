@@ -8,12 +8,12 @@ El ejercicio está planteado en dos partes:
 - La segunda parte es la función menu, desde donde te permite interactuar con la clase y decidir qué quieres hacer a través de un usuario.
 
 ### Funcionalidades
--Agregar productos: Permite agregar nuevos productos al inventario o actualizar la cantidad de un producto si ya existe.
--Ver inventario: Muestra todos los productos en el inventario con su nombre, precio y cantidad disponible.
--Buscar productos: Permite buscar un producto específico en el inventario por su nombre.
--Actualizar stock: Permite actualizar la cantidad de un producto específico (puedes sumar o restar unidades).
--Eliminar productos: Permite eliminar un producto del inventario.
--Calcular valor del inventario: Calcula el valor total del inventario sumando el valor de todos los productos (precio x cantidad).
+- Agregar productos: Permite agregar nuevos productos al inventario o actualizar la cantidad de un producto si ya existe.
+- Ver inventario: Muestra todos los productos en el inventario con su nombre, precio y cantidad disponible.
+- Buscar productos: Permite buscar un producto específico en el inventario por su nombre.
+- Actualizar stock: Permite actualizar la cantidad de un producto específico (puedes sumar o restar unidades).
+- Eliminar productos: Permite eliminar un producto del inventario.
+- Calcular valor del inventario: Calcula el valor total del inventario sumando el valor de todos los productos (precio x cantidad).
 
 ### Atributos
 - inventario (list): Almacena los productos en la tienda. Cada producto es representado por un diccionario con las claves:
